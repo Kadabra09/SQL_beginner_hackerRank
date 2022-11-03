@@ -1,0 +1,2 @@
+# SQL_beginner_hackerRank
+Easy Hacker_Rank_Questions
